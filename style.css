@@ -157,6 +157,9 @@
 .bag{
     background-color:lightgray;
 }
+a{
+    text-decoretion:none ;
+}
 
 
 @media screen and (min-width:290px) and (max-width:580px){
